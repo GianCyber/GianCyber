@@ -1,14 +1,15 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Gian
+<a href="https://linkedin.com/in/gianameglio"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/r/p/GianAmeglioTSC23">
+    <img src="https://img.shields.io/badge/-TryHackMe-2D2D2D?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 
-[Brief Introduction - Remove this afterwards]
+ IT professional with experience in cybersecurity and technical support. Skilled in identifying system
+ vulnerabilities, improving security, and providing effective troubleshooting. Committed to delivering
+ reliable IT solutions and contributing to organizational success.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am IT professional eager to transition into cybersecurity with a focus on becoming a Tier 1 Analyst in a Security Operations Center (SOC). My passion lies in mastering both offensive and defensive security strategies to excel as a Purple Teamer. With practical experience in penetration testing, network security, and IT troubleshooting, I am committed to building the skills necessary to analyze, detect, and respond to security threats. As I work toward completing a master's program in cybersecurity, I am driven by the belief that understanding both sides of the cybersecurity landscape is essential for creating effective and resilient defense strategies
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -23,36 +24,31 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+ 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-167D6E?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Netcat-0078D7?&style=for-the-badge&logo=Netcat&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Altered_Security_CRTP-0000FF?&style=for-the-badge&logo=Altered_Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hacker_Mentor_Pentester_Junior-0000FF?&style=for-the-badge&logo=Hacker_Mentor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-0000FF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
