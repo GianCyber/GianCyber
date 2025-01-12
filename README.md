@@ -15,17 +15,21 @@
 I am IT professional eager to transition into cybersecurity with a focus on becoming a Tier 1 Analyst in a Security Operations Center (SOC). My passion lies in mastering both offensive and defensive security strategies to excel as a Purple Teamer. With practical experience in penetration testing, network security, and IT troubleshooting, I am committed to building the skills necessary to analyze, detect, and respond to security threats. As I work toward completing a master's program in cybersecurity, I am driven by the belief that understanding both sides of the cybersecurity landscape is essential for creating effective and resilient defense strategies
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Python                                        | <a href="https://replit.com/@GiancarloAmegli/Real-Estate-Investor">Program Code </a>||
 | Active Directory                              | <a href="https://www.youtube.com/watch?v=PCoxqvaiG8A"> Active Directory Basics </a>|
 
 ## Tools
  
+### Language
+</div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> 
+</div>
+
 
 ### Network
 <div>
@@ -54,4 +58,5 @@ I am IT professional eager to transition into cybersecurity with a focus on beco
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Attacking AD
+- Python Real Estate Investing Program
