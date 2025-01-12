@@ -1,10 +1,13 @@
 # Hello, I'm Gian
 <a href="https://linkedin.com/in/gianameglio"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/r/p/GianAmeglioTSC23">
-    <img src="https://img.shields.io/badge/-TryHackMe-2D2D2D?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+<a href="https://tryhackme.com/r/p/GianAmeglioTSC23"><img src="https://img.shields.io/badge/-TryHackMe-2D2D2D?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+<a href="https://www.youtube.com/@GianCyber"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
- IT professional with experience in cybersecurity and technical support. Skilled in identifying system
- vulnerabilities, improving security, and providing effective troubleshooting. Committed to delivering
+  
+
+
+ Skilled in identifying system vulnerabilities, improving security, and providing effective troubleshooting. Committed to delivering
  reliable IT solutions and contributing to organizational success.
 
 
