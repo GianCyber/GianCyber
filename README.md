@@ -57,6 +57,7 @@ I am IT professional eager to transition into cybersecurity with a focus on beco
 </div>
 
 ## Projects
+🎩My absolutely Nobie Security Project Portfolio💀🎩
 - Detection Lab
 - Attacking AD
 - Python Real Estate Investing Program
