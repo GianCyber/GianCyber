@@ -49,7 +49,7 @@ I am IT professional eager to transition into cybersecurity with a focus on beco
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Altered_Security_CRTP-0000FF?&style=for-the-badge&logo=Altered_Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hacker_Mentor_Pentester_Junior-0000FF?&style=for-the-badge&logo=Hacker_Mentor&logoColor=white" />
