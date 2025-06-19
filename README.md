@@ -12,7 +12,18 @@
 
 
 ## Objective
-I am IT professional eager to transition into cybersecurity with a focus on becoming a Tier 1 Analyst in a Security Operations Center (SOC). My passion lies in mastering both offensive and defensive security strategies to excel as a Purple Teamer. With practical experience in penetration testing, network security, and IT troubleshooting, I am committed to building the skills necessary to analyze, detect, and respond to security threats. As I work toward completing a master's program in cybersecurity, I am driven by the belief that understanding both sides of the cybersecurity landscape is essential for creating effective and resilient defense strategies
+I’m an IT professional with 3 degrees and certifications that round up my experience in cybersecurity. I have hands-on expertise in cybersecurity, technical support, and enterprise infrastructure. My experience spans identifying system vulnerabilities, implementing effective security controls, and optimizing performance across large organizations. My goal is to finish my Masters Degree in cybersecurity and become a Cybersecurity Engineer.
+
+I specialize in:
+• Endpoint Detection & Response (EDR)
+• USB Device Control
+• Firewall & Network Policies
+• Domain Management
+• User & Access Control
+
+At one of the largest hospitals in Florida, I led the configuration and assessment of systems supporting over 7,000 employees across 17 counties, playing a key role in the transition from Cerner to Epic.
+
+My passion for tech started in middle school and hasn’t slowed down since. I’m driven by curiosity, creativity, and the impact of solving real-world problems. Outside of work, I showcase personal projects on GitHub and YouTube, where I explore solutions that bridge everyday challenges with innovative technologies.
 
 ## Skills
 
@@ -28,6 +39,8 @@ I am IT professional eager to transition into cybersecurity with a focus on beco
 ### Language
 </div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 
@@ -37,10 +50,17 @@ I am IT professional eager to transition into cybersecurity with a focus on beco
     <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Netcat-0078D7?&style=for-the-badge&logo=Netcat&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Security Tools
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <a href="https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-endpoint" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender for Endpoint" />
+  </a>
+
+  <a href="https://www.crowdstrike.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-CrowdStrike-E51C23?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CrowdStrike_Logo.png/320px-CrowdStrike_Logo.png&logoColor=white" alt="CrowdStrike" />
+  </a>
 </div>
+ 
 
 ### SIEM
 <div>
@@ -50,13 +70,38 @@ I am IT professional eager to transition into cybersecurity with a focus on beco
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Altered_Security_CRTP-0000FF?&style=for-the-badge&logo=Altered_Security&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Hacker_Mentor_Pentester_Junior-0000FF?&style=for-the-badge&logo=Hacker_Mentor&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-0000FF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+<!-- CrowdStrike Certified Falcon Administrator -->
+  <a href="https://www.crowdstrike.com/services/falcon-certification/" target="_blank">
+    <img src="https://img.shields.io/badge/-CrowdStrike_Certified_Falcon_Admin-E51C23?style=for-the-badge&logo=CrowdStrike&logoColor=white" alt="CrowdStrike Certified Falcon Administrator" />
+  </a>
+
+  <!-- CompTIA CySA+ -->
+  <a href="https://www.comptia.org/certifications/cybersecurity-analyst" target="_blank">
+    <img src="https://img.shields.io/badge/-CompTIA_CySA+-%23F42B29?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+" />
+  </a>
+
+  <!-- Network Infrastructure - Tallahassee State College -->
+  <a href="https://www.tcc.fl.edu/" target="_blank">
+    <img src="https://img.shields.io/badge/-Network_Infrastructure_(Tallahassee_State_College)-005A9C?style=for-the-badge&logo=Google%20Classroom&logoColor=white" alt="Network Infrastructure from Tallahassee State College" />
+  </a>
+
+  <!-- Cybersecurity - Tallahassee State College -->
+  <a href="https://www.tcc.fl.edu/" target="_blank">
+    <img src="https://img.shields.io/badge/-Cybersecurity_(Tallahassee_State_College)-005A9C?style=for-the-badge&logo=Google%20Classroom&logoColor=white" alt="Cybersecurity from Tallahassee State College" />
+  </a>
 </div>
+
 
 ## Projects
 🎩My absolutely Nobie Security Project Portfolio💀🎩
 - Detection Lab
-- Attacking AD
 - Python Real Estate Investing Program
+- EC2 Instance Setup
+- Wireshark Projects
+- Honey-Net Setup
+- Email Filtering Trained AI
+- Web Infiltration 
